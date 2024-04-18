@@ -5,7 +5,7 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 ![](https://i.imgur.com/waxVImv.png)
 
 
-<b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/anshsinghsonkhia/)</b>
+<b>Let's Connect Over: [LinkedIn](https://www.linkedin.com/in/shashank-k-7042002s)</b>
 
 
 </a>
