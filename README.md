@@ -9,7 +9,7 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 
 </a>
-  <a href="https://www.linkedin.com/in/anshsinghsonkhia/">
+  <a href="https://www.linkedin.com/in/shashank-k-7042002s">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
 <a href="https://twitter.com/AnshSSonkhia">
