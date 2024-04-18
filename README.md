@@ -18,10 +18,6 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
   
 
 
-# Tech-Stack Used..
-[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<!--<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="60" height="60"/>&nbsp;&nbsp;-->
 
 ![](https://i.imgur.com/waxVImv.png)
 
