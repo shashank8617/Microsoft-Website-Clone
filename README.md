@@ -12,15 +12,10 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
   <a href="https://www.linkedin.com/in/shashank-k-7042002s">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>&nbsp;
 </a>
-<a href="https://twitter.com/AnshSSonkhia">
+<a href="https://twitter.com/Shashank8617">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-  <a href="https://g.dev/AnshSinghSonkhia">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/android.png"/>&nbsp;
-</a>
-<a href="https://stackoverflow.com/users/19728087/ansh-singh-sonkhia">
-  <img height="50" src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/stack-overflow.png"/>&nbsp;
-</a>
+  
 
 
 # Tech-Stack Used..
@@ -31,39 +26,4 @@ Completely Responsive Microsoft Website Clone - Using TailwindCSS
 
 ![](https://i.imgur.com/waxVImv.png)
 
-
-
-## PC Screenshots..
-![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot1.png)
-
-![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot2.png)
-
-![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot3.png)
-
-![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot4.png)
-
-![](https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/Screenshot5.png)
-
-![](https://i.imgur.com/waxVImv.png)
-
-## Samsung Galaxy S20 Ultra Screenshots..
-
-<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra.png" title="Samsung Galaxy S20 Ultra Screenshot" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra2.png" title="Samsung Galaxy S20 Ultra Screenshot 2" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/SamGalaxyS20Ultra3.png" title="Samsung Galaxy S20 Ultra Screenshot 3" alt="Samsung Galaxy S20 Ultra Screenshot" height="530"/>&nbsp;
-
-![](https://i.imgur.com/waxVImv.png)
-
-## iPad Pro Screenshots..
-
-<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/iPad-Pro.png" title="iPad Pro Screenshot 1" alt="iPad Pro Screenshot" height="610"/>&nbsp;<img src="https://github.com/AnshSinghSonkhia/Microsoft-Website-Clone/blob/master/Screenshots/iPad-Pro-2.png" title="iPad Pro Screenshot 2" alt="iPad Pro Screenshot" height="610"/>&nbsp;
-
-![](https://i.imgur.com/waxVImv.png)
-
-
-
-
-<div align="center">
-
-<h3> Show Some <img src="https://github.com/AnshSinghSonkhia/AnshSinghSonkhia/blob/main/icons/love.png" title="Love" alt="Love" width="20" height="20"/> by Starring Some of My Repos! </h3>
-
-</div>
 
